@@ -138,9 +138,9 @@ STATICFILES_DIRS = [
 ]
 
 cloudinary.config(
-    cloud_name="di9sgdjea",
-    api_key="995483666392575",
-    api_secret="W18pRZhAJIofe6zt8cE0I0e-Hb0",
+    cloud_name="dlfknzxsm",
+    api_key="377797569512477",
+    api_secret="pR9JsjnuUUemv1oXuuizSwbN5Fo",
     secure=True
 )
 
